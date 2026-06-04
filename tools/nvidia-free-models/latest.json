@@ -1,0 +1,389 @@
+[
+  {
+    "name": "glm-4.7",
+    "publisher": "Z.ai",
+    "url": "https://build.nvidia.com/z-ai/glm-4.7",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.258335"
+  },
+  {
+    "name": "nemotron-3-content-safety",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/nemotron-3-content-safety",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.258335"
+  },
+  {
+    "name": "synthetic-video-detector",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/synthetic-video-detector",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.258335"
+  },
+  {
+    "name": "Active Speaker Detection",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/active-speaker-detection",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.258335"
+  },
+  {
+    "name": "minimax-m2.7",
+    "publisher": "Minimaxai",
+    "url": "https://build.nvidia.com/minimaxai/minimax-m2.7",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.258335"
+  },
+  {
+    "name": "nemotron-voicechat",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/nemotron-voicechat",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.258335"
+  },
+  {
+    "name": "gliner-pii",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/gliner-pii",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.258335"
+  },
+  {
+    "name": "cosmos-transfer2.5-2b",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/cosmos-transfer2_5-2b",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.258335"
+  },
+  {
+    "name": "step-3.5-flash",
+    "publisher": "Stepfun-ai",
+    "url": "https://build.nvidia.com/stepfun-ai/step-3.5-flash",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.258335"
+  },
+  {
+    "name": "nemotron-content-safety-reasoning-4b",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/nemotron-content-safety-reasoning-4b",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.258335"
+  },
+  {
+    "name": "riva-translate-4b-instruct-v1_1",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/riva-translate-4b-instruct-v1_1",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.258335"
+  },
+  {
+    "name": "mistral-large-3-675b-instruct-2512",
+    "publisher": "Mistral AI",
+    "url": "https://build.nvidia.com/mistralai/mistral-large-3-675b-instruct-2512",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.258335"
+  },
+  {
+    "name": "streampetr",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/streampetr",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.259333"
+  },
+  {
+    "name": "llama-3.1-nemotron-safety-guard-8b-v3",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/llama-3_1-nemotron-safety-guard-8b-v3",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.259333"
+  },
+  {
+    "name": "seed-oss-36b-instruct",
+    "publisher": "ByteDance",
+    "url": "https://build.nvidia.com/bytedance/seed-oss-36b-instruct",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.259333"
+  },
+  {
+    "name": "qwen3-coder-480b-a35b-instruct",
+    "publisher": "Qwen",
+    "url": "https://build.nvidia.com/qwen/qwen3-coder-480b-a35b-instruct",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.259333"
+  },
+  {
+    "name": "llama-3_2-nemoretriever-300m-embed-v1",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/llama-3_2-nemoretriever-300m-embed-v1",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.259333"
+  },
+  {
+    "name": "magistral-small-2506",
+    "publisher": "Mistral AI",
+    "url": "https://build.nvidia.com/mistralai/magistral-small-2506",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.259333"
+  },
+  {
+    "name": "llama-guard-4-12b",
+    "publisher": "Meta",
+    "url": "https://build.nvidia.com/meta/llama-guard-4-12b",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.259333"
+  },
+  {
+    "name": "gemma-3n-e4b-it",
+    "publisher": "Google",
+    "url": "https://build.nvidia.com/google/gemma-3n-e4b-it",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.259333"
+  },
+  {
+    "name": "gemma-3n-e2b-it",
+    "publisher": "Google",
+    "url": "https://build.nvidia.com/google/gemma-3n-e2b-it",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.259333"
+  },
+  {
+    "name": "cosmos-transfer1-7b",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/cosmos-transfer1-7b",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.259333"
+  },
+  {
+    "name": "mistral-nemotron",
+    "publisher": "Mistral AI",
+    "url": "https://build.nvidia.com/mistralai/mistral-nemotron",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.259333"
+  },
+  {
+    "name": "magpie-tts-zeroshot",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/magpie-tts-zeroshot",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.259333"
+  },
+  {
+    "name": "mistral-medium-3-instruct",
+    "publisher": "Mistral AI",
+    "url": "https://build.nvidia.com/mistralai/mistral-medium-3-instruct",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.832470"
+  },
+  {
+    "name": "llama-4-maverick-17b-128e-instruct",
+    "publisher": "Meta",
+    "url": "https://build.nvidia.com/meta/llama-4-maverick-17b-128e-instruct",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.832470"
+  },
+  {
+    "name": "cosmos-predict1-5b",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/cosmos-predict1-5b",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.832470"
+  },
+  {
+    "name": "sparsedrive",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/sparsedrive",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.832470"
+  },
+  {
+    "name": "bevformer",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/bevformer",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.832470"
+  },
+  {
+    "name": "nv-embedcode-7b-v1",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/nv-embedcode-7b-v1",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.832470"
+  },
+  {
+    "name": "phi-4-multimodal-instruct",
+    "publisher": "Microsoft",
+    "url": "https://build.nvidia.com/microsoft/phi-4-multimodal-instruct",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.832470"
+  },
+  {
+    "name": "usdcode",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/usdcode",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.832470"
+  },
+  {
+    "name": "studiovoice",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/studiovoice",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.832470"
+  },
+  {
+    "name": "dracarys-llama-3.1-70b-instruct",
+    "publisher": "Abacus.AI",
+    "url": "https://build.nvidia.com/abacusai/dracarys-llama-3_1-70b-instruct",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.832470"
+  },
+  {
+    "name": "esm2-650m",
+    "publisher": "Meta",
+    "url": "https://build.nvidia.com/meta/esm2-650m",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.833472"
+  },
+  {
+    "name": "nemotron-mini-4b-instruct",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/nemotron-mini-4b-instruct",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.833472"
+  },
+  {
+    "name": "gemma-2-2b-it",
+    "publisher": "Google",
+    "url": "https://build.nvidia.com/google/gemma-2-2b-it",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.833472"
+  },
+  {
+    "name": "usdvalidate",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/usdvalidate",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.833472"
+  },
+  {
+    "name": "nv-embed-v1",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/nv-embed-v1",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.833472"
+  },
+  {
+    "name": "solar-10.7b-instruct",
+    "publisher": "Upstage",
+    "url": "https://build.nvidia.com/upstage/solar-10_7b-instruct",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.833472"
+  },
+  {
+    "name": "paligemma",
+    "publisher": "Google",
+    "url": "https://build.nvidia.com/google/google-paligemma",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.833472"
+  },
+  {
+    "name": "rerank-qa-mistral-4b",
+    "publisher": "NVIDIA",
+    "url": "https://build.nvidia.com/nvidia/rerank-qa-mistral-4b",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.833472"
+  },
+  {
+    "name": "esmfold",
+    "publisher": "Meta",
+    "url": "https://build.nvidia.com/meta/esmfold",
+    "description": "",
+    "labels": "",
+    "type": "Free Endpoint",
+    "scraped_at": "2026-05-14T16:26:13.833472"
+  }
+]

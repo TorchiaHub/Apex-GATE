@@ -1,0 +1,79 @@
+:root {
+  /* Palette */
+  --color-bg-base: #07070d;
+  --color-bg-surface: #0f0f1a;
+  --color-bg-elevated: #161625;
+  --color-bg-overlay: #1e1e30;
+
+  --color-border: rgba(255, 255, 255, 0.07);
+  --color-border-subtle: rgba(255, 255, 255, 0.04);
+
+  --color-accent: #6366f1;
+  --color-accent-hover: #818cf8;
+  --color-accent-dim: rgba(99, 102, 241, 0.15);
+  --color-accent-glow: rgba(99, 102, 241, 0.35);
+
+  --color-success: #34d399;
+  --color-success-dim: rgba(52, 211, 153, 0.12);
+  --color-warning: #fbbf24;
+  --color-warning-dim: rgba(251, 191, 36, 0.12);
+  --color-error: #f87171;
+  --color-error-dim: rgba(248, 113, 113, 0.12);
+
+  --color-text-primary: rgba(255, 255, 255, 0.92);
+  --color-text-secondary: rgba(255, 255, 255, 0.55);
+  --color-text-muted: rgba(255, 255, 255, 0.3);
+
+  /* Typography */
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", "Fira Code", ui-monospace, monospace;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.875rem;
+  --text-4xl: 2.25rem;
+
+  --weight-normal: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+  --weight-bold: 700;
+
+  /* Spacing */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+
+  /* Radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-full: 9999px;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.6);
+  --shadow-accent: 0 0 20px var(--color-accent-glow);
+
+  /* Motion */
+  --duration-fast: 120ms;
+  --duration-normal: 220ms;
+  --duration-slow: 350ms;
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* Layout */
+  --sidebar-width: 220px;
+  --header-height: 56px;
+}

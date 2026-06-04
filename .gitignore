@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+.env
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Database — never commit real data
+apex-gate/backend/data/
+*.db
+*.db-journal
+
+# Node
+node_modules/
+dist/
+build/
+*.local
+
+# Editor
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vendor — too large for git
+vendor/litellm/

@@ -1,0 +1,44 @@
+﻿name,publisher,url,description,labels,type,scraped_at
+glm-4.7,Z.ai,https://build.nvidia.com/z-ai/glm-4.7,,,Free Endpoint,2026-05-14T16:26:13.258335
+nemotron-3-content-safety,NVIDIA,https://build.nvidia.com/nvidia/nemotron-3-content-safety,,,Free Endpoint,2026-05-14T16:26:13.258335
+synthetic-video-detector,NVIDIA,https://build.nvidia.com/nvidia/synthetic-video-detector,,,Free Endpoint,2026-05-14T16:26:13.258335
+Active Speaker Detection,NVIDIA,https://build.nvidia.com/nvidia/active-speaker-detection,,,Free Endpoint,2026-05-14T16:26:13.258335
+minimax-m2.7,Minimaxai,https://build.nvidia.com/minimaxai/minimax-m2.7,,,Free Endpoint,2026-05-14T16:26:13.258335
+nemotron-voicechat,NVIDIA,https://build.nvidia.com/nvidia/nemotron-voicechat,,,Free Endpoint,2026-05-14T16:26:13.258335
+gliner-pii,NVIDIA,https://build.nvidia.com/nvidia/gliner-pii,,,Free Endpoint,2026-05-14T16:26:13.258335
+cosmos-transfer2.5-2b,NVIDIA,https://build.nvidia.com/nvidia/cosmos-transfer2_5-2b,,,Free Endpoint,2026-05-14T16:26:13.258335
+step-3.5-flash,Stepfun-ai,https://build.nvidia.com/stepfun-ai/step-3.5-flash,,,Free Endpoint,2026-05-14T16:26:13.258335
+nemotron-content-safety-reasoning-4b,NVIDIA,https://build.nvidia.com/nvidia/nemotron-content-safety-reasoning-4b,,,Free Endpoint,2026-05-14T16:26:13.258335
+riva-translate-4b-instruct-v1_1,NVIDIA,https://build.nvidia.com/nvidia/riva-translate-4b-instruct-v1_1,,,Free Endpoint,2026-05-14T16:26:13.258335
+mistral-large-3-675b-instruct-2512,Mistral AI,https://build.nvidia.com/mistralai/mistral-large-3-675b-instruct-2512,,,Free Endpoint,2026-05-14T16:26:13.258335
+streampetr,NVIDIA,https://build.nvidia.com/nvidia/streampetr,,,Free Endpoint,2026-05-14T16:26:13.259333
+llama-3.1-nemotron-safety-guard-8b-v3,NVIDIA,https://build.nvidia.com/nvidia/llama-3_1-nemotron-safety-guard-8b-v3,,,Free Endpoint,2026-05-14T16:26:13.259333
+seed-oss-36b-instruct,ByteDance,https://build.nvidia.com/bytedance/seed-oss-36b-instruct,,,Free Endpoint,2026-05-14T16:26:13.259333
+qwen3-coder-480b-a35b-instruct,Qwen,https://build.nvidia.com/qwen/qwen3-coder-480b-a35b-instruct,,,Free Endpoint,2026-05-14T16:26:13.259333
+llama-3_2-nemoretriever-300m-embed-v1,NVIDIA,https://build.nvidia.com/nvidia/llama-3_2-nemoretriever-300m-embed-v1,,,Free Endpoint,2026-05-14T16:26:13.259333
+magistral-small-2506,Mistral AI,https://build.nvidia.com/mistralai/magistral-small-2506,,,Free Endpoint,2026-05-14T16:26:13.259333
+llama-guard-4-12b,Meta,https://build.nvidia.com/meta/llama-guard-4-12b,,,Free Endpoint,2026-05-14T16:26:13.259333
+gemma-3n-e4b-it,Google,https://build.nvidia.com/google/gemma-3n-e4b-it,,,Free Endpoint,2026-05-14T16:26:13.259333
+gemma-3n-e2b-it,Google,https://build.nvidia.com/google/gemma-3n-e2b-it,,,Free Endpoint,2026-05-14T16:26:13.259333
+cosmos-transfer1-7b,NVIDIA,https://build.nvidia.com/nvidia/cosmos-transfer1-7b,,,Free Endpoint,2026-05-14T16:26:13.259333
+mistral-nemotron,Mistral AI,https://build.nvidia.com/mistralai/mistral-nemotron,,,Free Endpoint,2026-05-14T16:26:13.259333
+magpie-tts-zeroshot,NVIDIA,https://build.nvidia.com/nvidia/magpie-tts-zeroshot,,,Free Endpoint,2026-05-14T16:26:13.259333
+mistral-medium-3-instruct,Mistral AI,https://build.nvidia.com/mistralai/mistral-medium-3-instruct,,,Free Endpoint,2026-05-14T16:26:13.832470
+llama-4-maverick-17b-128e-instruct,Meta,https://build.nvidia.com/meta/llama-4-maverick-17b-128e-instruct,,,Free Endpoint,2026-05-14T16:26:13.832470
+cosmos-predict1-5b,NVIDIA,https://build.nvidia.com/nvidia/cosmos-predict1-5b,,,Free Endpoint,2026-05-14T16:26:13.832470
+sparsedrive,NVIDIA,https://build.nvidia.com/nvidia/sparsedrive,,,Free Endpoint,2026-05-14T16:26:13.832470
+bevformer,NVIDIA,https://build.nvidia.com/nvidia/bevformer,,,Free Endpoint,2026-05-14T16:26:13.832470
+nv-embedcode-7b-v1,NVIDIA,https://build.nvidia.com/nvidia/nv-embedcode-7b-v1,,,Free Endpoint,2026-05-14T16:26:13.832470
+phi-4-multimodal-instruct,Microsoft,https://build.nvidia.com/microsoft/phi-4-multimodal-instruct,,,Free Endpoint,2026-05-14T16:26:13.832470
+usdcode,NVIDIA,https://build.nvidia.com/nvidia/usdcode,,,Free Endpoint,2026-05-14T16:26:13.832470
+studiovoice,NVIDIA,https://build.nvidia.com/nvidia/studiovoice,,,Free Endpoint,2026-05-14T16:26:13.832470
+dracarys-llama-3.1-70b-instruct,Abacus.AI,https://build.nvidia.com/abacusai/dracarys-llama-3_1-70b-instruct,,,Free Endpoint,2026-05-14T16:26:13.832470
+esm2-650m,Meta,https://build.nvidia.com/meta/esm2-650m,,,Free Endpoint,2026-05-14T16:26:13.833472
+nemotron-mini-4b-instruct,NVIDIA,https://build.nvidia.com/nvidia/nemotron-mini-4b-instruct,,,Free Endpoint,2026-05-14T16:26:13.833472
+gemma-2-2b-it,Google,https://build.nvidia.com/google/gemma-2-2b-it,,,Free Endpoint,2026-05-14T16:26:13.833472
+usdvalidate,NVIDIA,https://build.nvidia.com/nvidia/usdvalidate,,,Free Endpoint,2026-05-14T16:26:13.833472
+nv-embed-v1,NVIDIA,https://build.nvidia.com/nvidia/nv-embed-v1,,,Free Endpoint,2026-05-14T16:26:13.833472
+solar-10.7b-instruct,Upstage,https://build.nvidia.com/upstage/solar-10_7b-instruct,,,Free Endpoint,2026-05-14T16:26:13.833472
+paligemma,Google,https://build.nvidia.com/google/google-paligemma,,,Free Endpoint,2026-05-14T16:26:13.833472
+rerank-qa-mistral-4b,NVIDIA,https://build.nvidia.com/nvidia/rerank-qa-mistral-4b,,,Free Endpoint,2026-05-14T16:26:13.833472
+esmfold,Meta,https://build.nvidia.com/meta/esmfold,,,Free Endpoint,2026-05-14T16:26:13.833472
